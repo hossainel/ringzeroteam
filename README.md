@@ -3,4 +3,5 @@ problems-solved
 - Hash me if you can
 - Hash me again
 
-### PHPSESSID :
+> PHPSESSID : [Where to get it]
+![phpsessid](/phpsessid.png)
